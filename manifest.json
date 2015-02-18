@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Google Tasks (by Google)",
+  "name": "Google Tasks Fork",
   "version": "1.0",
-  "description": "Official Chrome Extension for Google Tasks",
+  "description": "A fork of the Google Tasks chrome extension",
   "browser_action": {
     "default_icon": "images/tasks-19x19.png",
     "default_title": "Google Tasks",
